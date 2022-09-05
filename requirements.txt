@@ -1,0 +1,17 @@
+coverage>=4.0.3
+engarde>=0.3.1
+ipython>=4.1.2
+jupyter>=1.0.0
+notebook>=4.1.0
+seaborn>=0.7.0
+q>=2.6
+python-dotenv>=0.5.0
+pytest>=2.9.2
+tqdm
+numpy
+pandas
+matplotlib
+watermark
+scikit-learn
+scipy
+nbdime
